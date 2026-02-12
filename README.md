@@ -1,2 +1,2 @@
 # Single-cell-analysis
-these are projects that I performed just for learning and understanding
+Here, you can find the single cell RNA sequencing analsysis using Seurat (on R) and Scanpy (on python) that I performed for learning and understanding the standard workflow and plots.
